@@ -1,5 +1,6 @@
 # ReAble
 ReAble is a next-generation smart assistive stick designed for elderly and differently-abled individuals. It enhances safety, independence, and comfort by combining traditional mobility support with modern smart technology.It integrates advanced safety and health monitoring features, including Fall & Obstacle detection, Geo  Fencing , Location Tracking , Health Monitoring , Led Lighting and Panic Alarm. 
+
 Features :
 
   Ergonomic Design – lightweight, durable, and easy to handle.
